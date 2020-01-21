@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "isCompleted": true,
+      "task": "hejdå12"
+    },
+    {
+      "id": 2,
+      "isCompleted": false,
+      "task": "hejdå"
+    },
+    {
+      "isCompleted": false,
+      "task": "hallooo",
+      "id": 3
+    }
+  ]
+}
